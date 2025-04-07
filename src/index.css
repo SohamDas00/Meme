@@ -94,16 +94,7 @@ body{
     text-transform: uppercase;
     color: white;
     letter-spacing: 1px;
-    text-shadow:
-        2px 2px 0 #000,
-        -2px -2px 0 #000,
-        2px -2px 0 #000,
-        -2px 2px 0 #000,
-        0 2px 0 #000,
-        2px 0 0 #000,
-        0 -2px 0 #000,
-        -2px 0 0 #000,
-        2px 2px 5px #000;
+    color: #BF2EF0;
 }
 .top{
     top: 0;
