@@ -29,6 +29,6 @@ A fun and modern meme generator built with **React + Vite**. Type your custom te
 
 ```bash
 git clone https://github.com/SohamDas00/Meme.git
-cd Meme
+cd Meme-Generator
 npm install
 npm run dev
