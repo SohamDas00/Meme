@@ -1,15 +1,34 @@
-# React + Vite
+# 🖼️ Meme Generator App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun and modern meme generator built with **React + Vite**. Type your custom text, instantly generate a meme, and download it if you like it. Perfect for meme lovers and creators!
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [Click here to try it out](https://sohamdas-memegenerator.netlify.app/)  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
 
-# Meme
-Meme Generation
+- 🧠 **Custom Meme Generation** — Add your own text and get a meme instantly
+- 💾 **Download Support** — One-click download for your meme
+- ⚡ **Fast & Lightweight** — Powered by React + Vite
+- 🎨 **Responsive Design** — Looks great on all screen sizes
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React 18 + Vite
+- **Styling:** CSS
+- **Hosting:** Netlify
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/SohamDas00/Meme.git
+cd Meme
+npm install
+npm run dev
