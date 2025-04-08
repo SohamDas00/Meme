@@ -90,10 +90,20 @@ body{
     margin-block: 15px;
     padding-inline: 5px;
     font-family: impact, sans-serif;
-    font-size: 2rem;
+    font-size: 1.7rem;
     text-transform: uppercase;
+    color: white;
     letter-spacing: 1px;
-    color: #BF2EF0;
+    text-shadow:
+        1px 1px 0 #000,
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        0 1px 0 #000,
+        1px 0 0 #000,
+        0 -1px 0 #000,
+        -1px 0 0 #000,
+        1px 1px 3px #000;
 }
 .top{
     top: 0;
@@ -153,7 +163,7 @@ body{
     .main{
         border: 1px solid black;
         width: 240px;
-        height: 20rem;
+        height: 18rem;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -201,15 +211,24 @@ body{
     }
     .meme span {
         position: absolute;
-        text-align: center;
-        margin-block: 15px;
-        padding-inline: 5px;
-        font-family: impact, sans-serif;
-        font-size: 0.7rem;
-        text-transform: uppercase;
-        letter-spacing: 1px;
-        color: #BF2EF0;
-        text-shadow: none !important;
+    text-align: center;
+    margin-block: 15px;
+    padding-inline: 5px;
+    font-family: impact, sans-serif;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 1px;
+    text-shadow:
+        1px 1px 0 #000,
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        0 1px 0 #000,
+        1px 0 0 #000,
+        0 -1px 0 #000,
+        -1px 0 0 #000,
+        1px 1px 3px #000;
     }
     .img{
         width: 180px;
@@ -220,7 +239,7 @@ body{
         height: 25px;
         width: 70px;
         font-size: 9px;
-        margin-top: 15px;
+        margin-top: 10px;
         background-color: #80CBC4;
         box-shadow: 0.2px 0.2px 0.2px rgba(0, 0, 0, 0.3);
         border-radius: 3px;
