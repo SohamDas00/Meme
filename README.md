@@ -4,7 +4,7 @@ A fun and modern meme generator built with **React + Vite**. Type your custom te
 
 ## 🚀 Live Demo
 
-👉 [Click here to try it out](https://sohamdas-memegenerator.netlify.app/)  
+👉 [Click here to try it out](https://sohamdas-meme-generator.netlify.app/)  
 
 ---
 
